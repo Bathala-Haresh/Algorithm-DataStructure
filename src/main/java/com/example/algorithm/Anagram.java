@@ -1,3 +1,10 @@
+/**
+ * @author Haresh
+ * @since 28-july-2021
+ * @version 1.0
+ * 
+ * Purpose:T=program to find an anagram 
+ */
 package com.example.algorithm;
 import java.util.Scanner;
 
